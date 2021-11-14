@@ -3,23 +3,23 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wenblack/curso-front-facebook">
 
   <a href="https://www.linkedin.com/in/eliasgcf/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Wender%20Barbosa-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wenblack/curso-front-facebook">
   
   <a href="https://github.com/wenblack/curso-front-facebook/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wenblack/curso-front-facebook">
   </a>
   
-  <a href="https://github.com/wenblack/curso-front-facebook/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
+  <a href="https://github.com/wenblack/curso-front-facebook">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/wenblack/curso-front-facebook">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
+  <img alt="GitHub" src="https://img.shields.io/github/license/wenblack/curso-front-facebook">
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/NOME_DO_REPO
+$ gh repo fork wenblack/curso-front-facebook
 ```
 
 **Follow the steps below**
@@ -116,4 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 &nbsp;by Wender Barbosa 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
