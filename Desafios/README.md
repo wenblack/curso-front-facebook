@@ -1,4 +1,4 @@
-# Soluçao dos Desafios e Exercícios solicitados durante o Curso:
+# Solução dos Desafios e Exercícios do Curso:
 <br>
 
 # HTML
