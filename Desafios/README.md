@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Solução dos Desafios e Exercícios solicitados durante o Curso:
-=======
-# Solução dos Desafios e Exercícios do Curso:
->>>>>>> c402229b6e8ff2ac179d2301c41da72ba6636394
 <br>
 
 # HTML
@@ -22,14 +18,16 @@ Crie uma tabela com as suas informações pessoais:
 * Estado
 * Perfil do Linkedin
 * Experiência laboral</strong>
-
 <br>
 
 # CSS
 
 ## Desafio 01(CSS): Portfólio
-<<<<<<< HEAD
 * <strong> Crie uma página de portfólio pessoal em texto plano, com uma foto sua e links para suas redes sociais</strong>
-=======
 * Crie uma página de portfólio pessoal em texto plano, com uma foto sua e links para suas redes sociais
->>>>>>> c402229b6e8ff2ac179d2301c41da72ba6636394
+<br>
+
+# JS
+
+## Desafio 01(JS): Calculadora
+* <strong> Criar uma calculadora baseada no template com eventos onclick (Botões)</strong>
